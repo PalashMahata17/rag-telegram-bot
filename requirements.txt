@@ -1,0 +1,8 @@
+feedparser
+trafilatura
+transformers
+sentencepiece
+requests
+huggingface_hub
+streamlit
+huggingface_hub
