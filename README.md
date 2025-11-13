@@ -20,7 +20,7 @@ This app is running live on a Hugging Face Space.
 
 The entire pipeline runs on a continuous loop, ensuring that new content is fetched and processed as it appears.
 
-```mermaid
+
 graph TD;
     A[Start Loop (every 30 min)] --> B(Get 'Seen Links' from DB);
     B --> C[Loop Through RSS Feeds];
