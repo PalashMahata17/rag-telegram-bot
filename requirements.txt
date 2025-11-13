@@ -1,6 +1,0 @@
-feedparser
-trafilatura
-transformers
-sentencepiece
-requests
-huggingface_hub
