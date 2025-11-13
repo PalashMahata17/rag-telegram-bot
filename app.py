@@ -34,7 +34,7 @@ RSS_URLS = [
 # Settings for our persistent database (on Hugging Face Hub)
 # IMPORTANT: You must create a public dataset repo on Hugging Face
 # and call it "rag-bot-db" or change this name.
-DB_REPO_ID = "YOUR_USERNAME/rag-bot-db"  # <-- CHANGE THIS
+DB_REPO_ID = "Palash112/rag-bot-db"  # <-- This is now set
 DB_FILENAME = "seen_links.txt"
 
 # ==============================================================================
