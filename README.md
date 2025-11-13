@@ -1,13 +1,3 @@
-# You're welcome\! That's the perfect next step. A good project is only as good as its documentation.
-
-Here is a complete `README.md` file you can use. This is a "Markdown" file, which is the standard for GitHub.
-
-When you're in your GitHub repository, just click "Add file" -\> "Create new file" and name it `README.md`. Then, copy and paste all the text below into it. GitHub will automatically make it look beautiful.
-
------
-
-(Copy everything from this line down)
-
 # RAG RSS Feed Summarizer & Telegram Bot
 
 This is a data science project for my NLU (Natural Language Understanding) course. It is a 24/7, fully automated RAG (Retrieval-Augmented Generation) pipeline that:
